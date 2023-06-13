@@ -11,4 +11,4 @@
 6. Edit the $SUBDIR variable to send your document to the appropriate location in the report folder. 
 7. Run the script either via Windows scheduled task or command line like so: ```powershell.exe ./fileTransfer.ps1```
 
-For any issues or questions related to this script you can reach out to NSA Support @ support@nsacom.com
+For any issues or questions related to this script you can reach out to ** NSA Support ** @ support@nsacom.com
