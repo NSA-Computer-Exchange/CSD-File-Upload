@@ -1,4 +1,4 @@
-# CSD-File-Upload
+# CSD FileUpload
 ## PowerShell script that will upload a document to the CSD report folder
 
 ### Open the ```fileTransfer.ps1``` file in an editor such as PowerShell ISE or notepad++
